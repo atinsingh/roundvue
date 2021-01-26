@@ -4,6 +4,7 @@
       <NavBar />
       <Hero />
       <Highlights/>
+      <Footer/>
       <HowWorks/>
       <Header />
       <h1 class="title">
