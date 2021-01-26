@@ -4,7 +4,7 @@
   <div class="px-4 mx-auto sm:px-8">
     <div class="flex items-center justify-between py-1 border-b-2 border-gray-100 md:justify-start md:space-x-10">
       <div class="flex justify-start lg:w-0 lg:flex-1">
-        <a href="#">
+        <a href="/#">
         <svg class="w-auto h-16 sm:h-16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 411 146">
           <defs/>
           <g fill="none" fill-rule="evenodd" transform="translate(-65 -374)">
@@ -39,7 +39,8 @@
           
           <!-- Item active: "text-gray-900", Item inactive: "text-gray-500" -->
           <a type="link" class="font-medium text-gray-500 bg-white rounded-md cursor-pointer text-lgfont-sans group hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
-            <span>Pricing</span>
+          <router-link to="/pricing"><span>Pricing</span></router-link>
+
           </a>
 
           <!--
