@@ -4,7 +4,7 @@
   <div class="px-4 mx-auto sm:px-8">
     <div class="flex items-center justify-between py-1 border-b-2 border-gray-100 md:justify-start md:space-x-10">
       <div class="flex justify-start lg:w-0 lg:flex-1">
-        <a href="/#">
+       <a href="/#">
         <svg class="w-auto h-16 sm:h-16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 411 146">
           <defs/>
           <g fill="none" fill-rule="evenodd" transform="translate(-65 -374)">
