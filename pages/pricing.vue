@@ -2,6 +2,7 @@
   <div class="w-full">
     <div>
       <NavBar />
+      <Pricetab/>
       <Footer/>
     </div>
   </div>
