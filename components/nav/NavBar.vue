@@ -56,13 +56,13 @@
        
 
         <a href="#" class="text-base font-medium text-gray-500 hover:text-gray-900">
-          Mentors
+          <router-link to="/mentor"><span>Mentors</span></router-link>
         </a>
          <a href="#" class="text-base font-medium text-gray-500 hover:text-gray-900">
-          Contact Us
+          <router-link to="/contactus"><span>Contact Us</span></router-link>
         </a>
         <a href="#" class="text-base font-medium text-gray-500 hover:text-gray-900">
-          FAQ
+          <router-link to="/faq"><span>FAQ</span></router-link>
         </a>
 
 

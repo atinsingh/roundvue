@@ -2,32 +2,8 @@
   <div class="w-full">
     <div>
       <NavBar />
-      <Hero />
-      <Highlights/>
+      <p>Mentor page</p>
       <Footer/>
-      <HowWorks/>
-      <Header />
-      <h1 class="title">
-        round-vue
-      </h1>
-      <div class="links">
-        <a
-          href="https://nuxtjs.org/"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="button--green"
-        >
-          Documentation
-        </a>
-        <a
-          href="https://github.com/nuxt/nuxt.js"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="px-5 py-3 text-gray-200 bg-blue-500 rounded-md"
-        >
-          GitHub
-        </a>
-      </div>
     </div>
   </div>
 </template>
@@ -55,5 +31,4 @@ export default {
 </script>
 
 <style>
-  
 </style>
